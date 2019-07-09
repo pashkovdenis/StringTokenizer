@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Tokenizer\Example\bin\Debug\netcoreapp2.2\Example.deps.json
+C:\Users\User\source\repos\Tokenizer\Example\bin\Debug\netcoreapp2.2\Example.runtimeconfig.json
+C:\Users\User\source\repos\Tokenizer\Example\bin\Debug\netcoreapp2.2\Example.runtimeconfig.dev.json
+C:\Users\User\source\repos\Tokenizer\Example\bin\Debug\netcoreapp2.2\Example.dll
+C:\Users\User\source\repos\Tokenizer\Example\bin\Debug\netcoreapp2.2\Example.pdb
+C:\Users\User\source\repos\Tokenizer\Example\bin\Debug\netcoreapp2.2\Tokenizer.dll
+C:\Users\User\source\repos\Tokenizer\Example\bin\Debug\netcoreapp2.2\Tokenizer.pdb
+C:\Users\User\source\repos\Tokenizer\Example\obj\Debug\netcoreapp2.2\Example.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Tokenizer\Example\obj\Debug\netcoreapp2.2\Example.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tokenizer\Example\obj\Debug\netcoreapp2.2\Example.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Tokenizer\Example\obj\Debug\netcoreapp2.2\Example.AssemblyInfo.cs
+C:\Users\User\source\repos\Tokenizer\Example\obj\Debug\netcoreapp2.2\Example.csproj.CopyComplete
+C:\Users\User\source\repos\Tokenizer\Example\obj\Debug\netcoreapp2.2\Example.dll
+C:\Users\User\source\repos\Tokenizer\Example\obj\Debug\netcoreapp2.2\Example.pdb
